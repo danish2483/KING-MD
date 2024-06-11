@@ -9,13 +9,13 @@ global.port= process.env.PORT || 5000
 global.email = 'textnow1pak@gmail.com'
 global.github = 'https://github.com/naveeddogar/KING-MD'
 global.location = 'pakistan/multan'
-global.gurl = 'https://whatsapp.com/channel/0029Va66s2IJENxvTJjUtM1w' // add your username
+global.gurl = 'https://whatsapp.com/channel/0029VacsDM9CxoAn7gqn0j2c' // add your username
 global.sudo = process.env.SUDO || '923095771606'
 global.devs = '923095771606';
 global.website = 'https://king-md-session.onrender.com/' // Hello world
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/1963a82855b30eaa92d05.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'KING-MD' : process.env.BOT_NAME,
+  botname:   process.env.BOT_NAME === undefined ? 'DANISH HABIB' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'DANISH HABIB' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
   author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? 'Naveed-Dogar' : process.env.PACK_AUTHER.split(";")[0],
